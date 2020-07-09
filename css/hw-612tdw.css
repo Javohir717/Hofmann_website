@@ -1,0 +1,42 @@
+a:hover{
+ text-decoration: none;
+ color: black;
+}
+
+header {
+ background: none;
+ background-color: #fff9f9;
+ height: 100%;
+}
+
+.hw-612-tdw {
+ margin-top: 30px;
+ padding-bottom: 30px;
+}
+
+.hw-612-tdw_img{
+ width: 370px;
+ height: 430px;
+}
+
+.to_washers{
+ color: black;
+ font-size: 24px;
+}
+
+.row__link{
+ margin-bottom: 30px; 
+}
+
+.card-title{
+ font-size: 24px;
+}
+
+header .navbar{
+position: relative;
+}
+
+/* .footer .navbar{
+ height: 50px;
+ position: absolute;
+} */
